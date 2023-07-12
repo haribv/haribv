@@ -5,15 +5,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **Etical Hacking and Discord bot development**
-
-- 🌱 I’m currently learning **Java and Rust**
-
-- 💬 Ask me about **react**
-
-- 📫 How to reach me **arexyon@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/haribv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="haribv" height="30" width="40" /></a>
 </p>
